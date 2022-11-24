@@ -1,7 +1,15 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 h1 {
   color: rgba(255, 99, 71);
+  font-family: "Times New Roman", Times, serif;
 }
 .tomato-para {
   background-color: tomato;
   color: white;
+}
+img {
+  width: 100%;
 }
